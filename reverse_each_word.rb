@@ -17,5 +17,5 @@ def reverse_each_word(sentence)
     #binding.pry
     element.reverse
   end
-binding.pry
+#binding.pry
 end
