@@ -17,5 +17,6 @@ def reverse_each_word(sentence)
     #binding.pry
     element.reverse
   end
+  new_array*" "
 #binding.pry
 end
